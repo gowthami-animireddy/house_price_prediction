@@ -4,3 +4,7 @@ seaborn
 scikit-learn
 streamlit == 1.31.1
 altair == 4.2.2
+
+
+
+# pip install -r requriments.txt
