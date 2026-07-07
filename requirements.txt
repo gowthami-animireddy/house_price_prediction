@@ -1,9 +1,9 @@
-numpy==1.26.4
-pandas==2.3.3
+numpy
+pandas
 seaborn 
 scikit-learn
-streamlit == 1.31.1
-altair == 4.2.2
+streamlit 
+altair 
 
 
 
